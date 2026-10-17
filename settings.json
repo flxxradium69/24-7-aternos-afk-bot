@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "MUMELELO",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SEALSMP33.aternos.me",
-    "port": 14435,
+    "ip": "SEALSMP69.aternos.me",
+    "port": 23987,
     "version": "1.20.1",
     "try-creative": false
   },
